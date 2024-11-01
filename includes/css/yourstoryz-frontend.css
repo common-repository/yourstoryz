@@ -1,0 +1,10 @@
+.yourstoryz-video-horizontal {
+    aspect-ratio: 16 / 9;
+}
+
+.yourstoryz-video-vertical {
+    height: 60dvh;
+    max-width: 100%;
+    width: auto !important;
+    aspect-ratio: 9 / 16;
+}
